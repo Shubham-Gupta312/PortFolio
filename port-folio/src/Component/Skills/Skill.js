@@ -135,13 +135,13 @@ const Skill = () => {
               </div>
             </article>
 
-            <article className="skill__details">
+            {/* <article className="skill__details">
               <FaJava className="skill__details-icon" />
               <div>
                 <h4>Java</h4>
                 <small className="text-light">Beginner</small>
               </div>
-            </article>
+            </article> */}
           </div>
         </div>
       </div>

@@ -29,16 +29,16 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://linkedin.com" target='_blank'>
+        <a href="https://www.linkedin.com/in/shubham-gupta-5588a6200/" target='_blank'>
           <AiFillLinkedin className="footer__social-icon" />
         </a>
-        <a href="https://instagram.com" target='_blank'>
+        <a href="https://www.instagram.com/shubhamgupta6958/" target='_blank'>
           <AiFillInstagram className="footer__social-icon" />
         </a>
-        <a href="https://github.com" target='_blank'>
+        <a href="https://github.com/Shubham-Gupta312" target='_blank'>
           <AiFillGithub className="footer__social-icon" />
         </a>
-        <a href="https://twiter.com" target='_blank'>
+        <a href="https://twitter.com/Shubham78581589" target='_blank'>
           <ImTwitter className="footer__social-icon" />
         </a>
       </div>

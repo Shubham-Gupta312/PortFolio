@@ -34,13 +34,20 @@ header{
     margin-left: 10px;
 }
 
-.me__container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.me__me{
-    /* margin-left: 20rem; */
+/* .me{ 
+    background: linear-gradient(var(--color-primary),transparent);
+    width: 22rem;
+    height: 30rem;
+    position: absolute;
+    left: calc(50% - 11rem);
+    margin-top: 4rem;
+    border-radius: 12rem 12rem 0 0;
+    overflow: hidden;
+    padding: 5rem 1.5rem 1.5rem;
+    
+} */
+/* .me__me{
+    margin-left: 20rem; 
     margin-top: 5rem;
     width: 40%;
     aspect-ratio: 1/1;
@@ -49,8 +56,8 @@ header{
     place-items: center;
     display: grid; 
     
-}
-
+} */
+/* 
 .me__me-image{
     height: 100%;
     width: 100%;
@@ -58,12 +65,12 @@ header{
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
-    /* object-position: center-top; */
+    /* object-position: center-top; 
   
 }
 .me__me-image:hover{
     transform: rotate(0deg);
-}
+} */
 /* 
 @media screen and (max-width: 1000px){
     .me__me{

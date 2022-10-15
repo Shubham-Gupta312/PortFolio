@@ -14,13 +14,13 @@ const Home = () => {
         </div>
         <CTA />
 
-        <div className="container me__container">
+        {/* <div className="container me__container">
         <div className="me__me">
-          <div className="me__me-image">
+          <div className="me">
             <img src={IMG} alt="" />
           </div>
         </div>
-        </div>
+        </div> */}
        </div>
     </header>
   );
