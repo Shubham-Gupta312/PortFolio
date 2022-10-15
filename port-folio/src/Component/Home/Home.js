@@ -1,7 +1,7 @@
 import React from "react";
 import "./Home.css";
 import CTA from "./CTA";
-import IMG from '../../assets/IMG3.jpg'
+import IMG from '../../assets/IMG7.jpg'
 
 const Home = () => {
   return (

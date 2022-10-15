@@ -19,7 +19,7 @@ const Experience = () => {
               <h4>Btech-CSE</h4>
               <h5>2019-2023</h5>
               <p class="card-text">
-              Currently I am in 6th Semester of Btech with specialization of Computer Science
+              Currently I am in 7th Semester of Btech with specialization of Computer Science
               </p>
             </article>
 

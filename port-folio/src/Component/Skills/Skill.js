@@ -96,15 +96,15 @@ const Skill = () => {
               </div>
             </article>
 
-            <article className="skill__details">
+            {/* <article className="skill__details">
               <SiPhp className="skill__details-icon" />
               <div>
                 <h4>PHP</h4>
                 <small className="text-light">Basic</small>
               </div>
-            </article>
+            </article> */}
 
-            <article className="skill__details">
+            {/* <article className="skill__details">
               <div>
                 <h4>
                   Express
@@ -112,12 +112,12 @@ const Skill = () => {
                 </h4>
                 <small className="text-light">Basic</small>
               </div>
-            </article>
+            </article> */}
           </div>
         </div>
         {/* -------------------- */}
         <div className="other__language">
-          <h3>Other Language</h3>
+          <h3>Programming Language</h3>
           <div className="skill__content">
             <article className="skill__details">
               <FaPython className="skill__details-icon" />
@@ -139,7 +139,7 @@ const Skill = () => {
               <FaJava className="skill__details-icon" />
               <div>
                 <h4>Java</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
           </div>

@@ -46,8 +46,8 @@ header{
     aspect-ratio: 1/1;
     border-radius: 1.2rem;
     background: linear-gradient(45deg, transparent, var(--color-primary));
-    /* place-items: center;
-    display: grid; */
+    place-items: center;
+    display: grid; 
     
 }
 
@@ -58,6 +58,8 @@ header{
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
+    /* object-position: center-top; */
+  
 }
 .me__me-image:hover{
     transform: rotate(0deg);
