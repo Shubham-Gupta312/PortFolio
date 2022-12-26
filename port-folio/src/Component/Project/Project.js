@@ -3,7 +3,7 @@ import './Project.css'
 import {GoProject} from 'react-icons/go'
 import IMG from '../../assets/resturant.jpg'
 import IMG1 from '../../assets/music1.jpg'
-import IMG2 from '../../assets/OIP (2).jpg'
+import IMG2 from '../../assets/OIP.jpg'
 import IMG3 from '../../assets/todo.jpg'
 import IMG5 from '../../assets/news.jpg'
 
@@ -25,9 +25,9 @@ const data = [
   {
     id: 3,
     image: IMG2 ,
-    title: "Cryptoverse",
+    title: "Sorting Visualizer",
     github: "https://github.com/Shubham-Gupta312/",
-    view_project: "https://github.com/Shubham-Gupta312/",
+    view_project: "https://sortiing-visualizer.netlify.app/",
   },
   {
     id: 4,
